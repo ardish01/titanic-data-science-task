@@ -108,9 +108,3 @@ python selenium_task.py
 ```
 
 Ensure **Edge is installed** (default on Windows 11; install or update Edge if the script fails to start the driver). You may see harmless log lines in the terminal; success looks like the login banner text followed by **Browser closed.**
-
-## Submission (JobAxle)
-
-1. Push this project to a **public GitHub** repository (include the notebook, `app.py`, `build_artifacts.py`, `selenium_task.py`, `requirements.txt`, and this `README.md`).  
-2. After cloning, reviewers should run **`pip install -r requirements.txt`** and **`python build_artifacts.py`** before **`python -m uvicorn app:app --reload`**.  
-3. Share the repository link as instructed by the assessor.
