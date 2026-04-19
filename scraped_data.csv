@@ -1,0 +1,14 @@
+Sex/Age,Class/crew,Number aboard,Number saved,Number lost,Percentage saved,Percentage lost
+Children,First Class,7,6,1,86%,14%
+Second Class,26,25,1,96%,4%,
+Third Class,89,32,57,36%,64%,
+Crew,2,0,2,0%,100%,
+Women,First Class,142,138,4,97%,3%
+Second Class,92,80,12,87%,13%,
+Third Class,176,90,86,51%,49%,
+Crew,23,20,3,87%,13%,
+Men,First Class,175,57,118,33%,67%
+Second Class,166,13,153,8%,92%,
+Third Class,444,59,385,13%,87%,
+Crew,866,192,674,22%,78%,
+Total,"2,208",712,"1,496",32%,68%,

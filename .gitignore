@@ -1,0 +1,8 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+model_artifacts.joblib
+.DS_Store
+.jupyter_runtime/
